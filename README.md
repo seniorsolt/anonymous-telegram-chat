@@ -1,4 +1,4 @@
-# Anonymous telegram chat
+# Darkside Bot - anonymous telegram chat
 
 At the time of publication on March 18, 2024, Telegram does not have a built-in anonymous chat function. 
 The Darkside Bot is a Telegram bot designed to facilitate anonymous communication between users without the need to use fake accounts.
