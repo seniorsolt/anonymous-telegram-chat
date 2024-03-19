@@ -31,3 +31,6 @@ The code is divided into 2 parts - entry and main. Entry part will be deployed a
 11. Test by posting a message in either channel and check the Google Spreadsheet for a log entry.
 12. From the log, extract the chat ID and insert it into the ChatID1 field in the secondary script for the first channel. Repeat for the second channel and insert its ID into ChatID2
 13. Periodically clear the script's properties created through createProperties to prevent exceeding Google's quota.
+
+
+> :bulb: **NOTE**: The setup instructions were written after the development of the program was completed and may contain inaccuracies. Please, proceed with caution and feel free to contribute by suggesting amendments or clarifications.
