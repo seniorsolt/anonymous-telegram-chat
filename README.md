@@ -8,7 +8,8 @@ How It Works
 Telegram privides a function of anonymous posting by channel's admin. So we use it to imitate anonymous chat. 
 When a channel administrator posts a message in one of the channels, the bot captures this message and relays this message to the other channel, ensuring that the message appears to come from the bot itself, thus maintaining the anonymity of the original poster.
 
-![photo_2023-11-11_17-42-31](https://github.com/seniorsolt/anonymous-telegram-chat/assets/102902511/4767421b-a004-4f54-be39-da9210fd7648)
+![Безымянный](https://github.com/seniorsolt/anonymous-telegram-chat/assets/102902511/efc4fe5f-48c0-4f1d-ad56-ff2828acfc53)
+
 
 Setup 
 
